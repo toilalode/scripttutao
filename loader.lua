@@ -1,3 +1,18 @@
+(Lưu ý⚠️: Tao đã mã hóa code lua và cấm đứa nào xem code chính)
+(Warning⚠️: I obfuscated lua code and ban everyone view main code)
+(Web đây nha xem đi: https://github.com/toilalode/scripttutao/blob/main/loader.lua)
+
+--[[
+
+  ____            _       _  _____     _____           
+ / ___|  ___ _ __(_)_ __ | ||_   _|   |_   _|_ _  ___  
+ \___ \ / __| '__| | '_ \| __|| || | | || |/ _` |/ _ \ 
+  ___) | (__| |  | | |_) | |_ | || |_| || | (_| | (_) |
+ |____/ \___|_|  |_| .__/ \__||_| \__,_||_|\__,_|\___/ 
+                   |_|                                 
+
+]]--
+
 -- ============================================
 -- BLOX FRUITS SCRIPT v2.0 COMPLETE - LOADER
 -- Based on Uifluent + Enhanced Features
