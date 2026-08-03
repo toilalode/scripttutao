@@ -1,6 +1,6 @@
-(Lưu ý⚠️: Tao đã mã hóa code lua và cấm đứa nào xem code chính)
-(Warning⚠️: I obfuscated lua code and ban everyone view main code)
-(Web đây nha xem đi: https://github.com/toilalode/scripttutao/blob/main/scripttutao.lua)
+-(Lưu ý⚠️: Tao đã mã hóa code lua và cấm đứa nào xem code chính)
+-(Warning⚠️: I obfuscated lua code and ban everyone view main code)
+-(Web đây nha xem đi: https://github.com/toilalode/scripttutao/blob/main/scripttutao.lua)
 
 --[[
 
