@@ -1,0 +1,5 @@
+config.json
+*.txt
+private/
+secrets/
+node_modules/
