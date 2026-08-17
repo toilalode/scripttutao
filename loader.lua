@@ -1,5 +1,3 @@
---(Lưu ý⚠️: Tao đã mã hóa code lua và cấm đứa nào xem code chính)
---(Warning⚠️: I obfuscated lua code and ban everyone view main code)
 --(Web đây nha xem đi: https://github.com/toilalode/scripttutao/blob/main/loader.lua)
 
 --[[
@@ -49,10 +47,10 @@ local success, result = pcall(function()
     
     if scriptDir ~= "" then
         print("[+] Loading from: " .. scriptDir)
-        return loadfile(scriptDir .. "/scripttutao.lua")()
+        return loadfile(scriptDir .. "/ItemFactory.lua")()
     else
         print("[-] Could not determine script directory")
-        print("[*] Please load scripttutao.lua directly")
+        print("[*] Please load ItemFactory.lua directly")
         return false
     end
 end)
