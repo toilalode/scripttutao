@@ -47,7 +47,7 @@ local success, result = pcall(function()
     
     if scriptDir ~= "" then
         print("[+] Loading from: " .. scriptDir)
-        return loadfile(scriptDir .. "/ItemFactory.lua")()
+        return loadfile(scriptDir .. "/raw.githubusercontent.com/toilalode/caythuebanghack/refs/heads/main/ItemFactory.lua")()
     else
         print("[-] Could not determine script directory")
         print("[*] Please load ItemFactory.lua directly")
